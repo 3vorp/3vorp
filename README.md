@@ -17,4 +17,13 @@ Not sure what else to put here so here's some links.
 
 ___
 
+## My other media (mostly active on Discord)
+
+[Twitter](https://twitter.com/3vorp)
+
+[Reddit](https://reddit.com/u/3vorp)
+
+My Discord is Evorp#5819
+
+___
 I also founded a cult as an April Fools joke, that's something I guess.
