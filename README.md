@@ -1,7 +1,9 @@
 # I'm the Classic Faithful (and Faithful) guy.
 Faithful is a Minecraft resource pack which provides a higher-resolution version of the default textures while staying true to the originals.
 
-Not sure what else to put here so here's some links.
+___
+
+Not sure what else to put here so here's some useful stuff.
 
 ## Various Faithful-Related Links:
 
@@ -26,4 +28,5 @@ ___
 [YouTube](https://www.youtube.com/channel/UC33jw4oBj5aKpwtyvh6qb6Q)
 
 ___
+
 I also founded a cult as an April Fools joke, that's something I guess.
