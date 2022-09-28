@@ -20,7 +20,7 @@ ___
 
 ___
 
-## My other media (mostly active on Discord at Evorp#5819)
+## My other media (mostly active on Discord at `Evorp#5819`)
 
 [Twitter](https://twitter.com/3vorp)
 
