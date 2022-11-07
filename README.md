@@ -1,4 +1,4 @@
-# I'm the Classic Faithful (and Faithful) guy.
+# I work on the Faithful Project.
 
 ___
 
