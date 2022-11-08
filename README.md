@@ -1,4 +1,4 @@
-# I work on the Faithful Project.
+# I'm the Faithful Project guy.
 
 ___
 
