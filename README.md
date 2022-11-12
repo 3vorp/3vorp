@@ -1,8 +1,4 @@
-# I'm the Faithful Project guy.
-
-___
-
-Not sure what else to put here so here's some useful stuff.
+Not sure what to put here so here's some useful stuff.
 
 ___
 
