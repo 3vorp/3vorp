@@ -26,7 +26,7 @@ ___
 
 [Reddit](https://reddit.com/u/3vorp)
 
-[YouTube](https://www.youtube.com/channel/UC33jw4oBj5aKpwtyvh6qb6Q)
+[YouTube](https://www.youtube.com/@evorp)
 
 ___
 
