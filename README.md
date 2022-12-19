@@ -8,8 +8,12 @@ ___
 ## I work on the Faithful Project as a co-owner/manager
 shameless plug at https://faithfulpack.net
 ___
+## I do commissions for pixel art 
+e.g. minecraft skins — usually between 5-10 USD (no animations please)
 
-## My other media (mostly active on Discord at `Evorp#5819`)
+## Contact me
+
+I'm mostly active on Discord at `Evorp#5819`, but here's some of my other media ~~that I basically never use~~
 
 [Twitter](https://twitter.com/3vorp)
 
