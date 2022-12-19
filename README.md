@@ -2,18 +2,11 @@
 
 ___
 
-## Various Faithful-Related Links:
-
-[Faithful Site](https://faithfulpack.net)
-
-[Main Discord](https://discord.gg/sN9YRQbBv7)
-
-[Main Faithful Github](https://github.com/faithful-resource-pack)
-
-[Classic Faithful Discord](https://discord.gg/KSEhCVtg4J)
-
-[Classic Faithful Github](https://github.com/classicfaithful)
-
+## I made a discord bot in discord.py and it only slightly sucks
+check it out at https://github.com/3vorp/Spunch-Bot
+___
+## I work on the Faithful Project as a co-owner/manager
+shameless plug at https://faithfulpack.net
 ___
 
 ## My other media (mostly active on Discord at `Evorp#5819`)
