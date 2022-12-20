@@ -1,5 +1,3 @@
-___
-
 # Basic information:
 
 ## I work on the Faithful Project as a co-owner/manager...
