@@ -1,4 +1,4 @@
-# Basic information:
+# What I do:
 
 ## I work on the Faithful Project as a co-owner/manager...
 Our main site is at https://faithfulpack.net and our discord at https://discord.gg/sN9YRQbBv7.
