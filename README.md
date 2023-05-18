@@ -66,4 +66,4 @@ The best way to contact me is via Discord at `Evorp#5819`, but you can also find
 
 <hr>
 
-*Please contact me via Discord if you have any additional questions. You can use my other socials above but your response times may vary.*
+*Please contact me via Discord if you have any additional questions. You can use my other socials too, but my response times may vary.*
