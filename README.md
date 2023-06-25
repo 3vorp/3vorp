@@ -6,6 +6,8 @@ The best way to contact me is via Discord at `Evorp#5819`, but you can also find
 
 [My Site](https://3vorp.github.io) • [Twitter](https://twitter.com/3vorp) • [Reddit](https://reddit.com/u/3vorp) • [YouTube](https://www.youtube.com/@evorp) • [Steam](https://steamcommunity.com/id/3vorp/)
 
+[![wakatime](https://wakatime.com/badge/user/a6180042-a9f4-4c2b-9f41-3a02f3d617a3.svg?style=for-the-badge)](https://wakatime.com/@Evorp)
+
 <h1>What I do:</h1>
 
 <h2 align="center">The Faithful Project</h2>
