@@ -2,7 +2,7 @@
 
 I'm a pixel artist and programmer with experience in Python, JavaScript/TypeScript in Node, web development, and more recently Java and the SvelteKit website framework.
 
-The best way to contact me is via Discord at `Evorp#5819`, but you can also find me at the following links:
+The best way to contact me is via Discord at `@evorp`, but you can also find me at the following links:
 
 [My Site](https://3vorp.github.io) • [Twitter](https://twitter.com/3vorp) • [Reddit](https://reddit.com/u/3vorp) • [YouTube](https://www.youtube.com/@evorp) • [Steam](https://steamcommunity.com/id/3vorp/)
 
