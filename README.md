@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub profile!</h1>
 
-I'm a pixel artist and programmer with experience in Python, JavaScript/TypeScript in Node, web development, and more recently Java and the SvelteKit website framework.
+I'm a pixel artist and programmer with experience in Python, Node.js, TypeScript, Svelte, Jekyll, and more recently Java, Vue.js, and Express.
 
 The best way to contact me is via Discord at `@evorp`, but you can also find me at the following links:
 
