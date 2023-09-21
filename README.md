@@ -4,7 +4,11 @@ I'm a pixel artist and programmer with experience in Python, Node.js, TypeScript
 
 The best way to contact me is via Discord at `@evorp`, but you can also find me at the following links:
 
-[My Site](https://3vorp.github.io) • [Twitter](https://twitter.com/3vorp) • [Reddit](https://reddit.com/u/3vorp) • [YouTube](https://www.youtube.com/@evorp) • [Steam](https://steamcommunity.com/id/3vorp/)
+<a href="https://3vorp.github.io"><img alt="Site" src="https://img.shields.io/badge/Website-2a2a2e?style=for-the-badge&logoColor=white"></a>&nbsp;
+<a href="https://twitter.com/3vorp"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
+<a href="https://reddit.com/u/3vorp"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;
+<a href="https://www.youtube.com/@evorp"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
+<a href="https://steamcommunity.com/id/3vorp/"><img alt="Youtube" src="https://img.shields.io/badge/Steam-2A475E?style=for-the-badge&logo=steam&logoColor=white"></a>&nbsp;
 
 [![wakatime](https://wakatime.com/badge/user/a6180042-a9f4-4c2b-9f41-3a02f3d617a3.svg?style=for-the-badge)](https://wakatime.com/@Evorp)
 
