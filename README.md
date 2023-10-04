@@ -32,24 +32,6 @@ The best way to contact me is via Discord at `@evorp`, but you can also find me 
 
   You can join our [Discord server](https://discord.gg/sN9YRQbBv7) to help us contribute to the project, give feedback, or just generally chat with us, or click the image on the left to view our website.
 </p>
-  
-<h2 align="center">spunch bot</h2>
-<a href="https://github.com/3vorp/spunch-bot">
-  <img
-       src="https://github.com/3vorp/Spunch-Bot/blob/main/assets/bot_pfp.png?raw=true"
-       alt="spunch bot pfp"
-       height="192"
-       align="right"
-  />
-</a>
-
-<p>
-  spunch bot is a general-purpose Discord bot, featuring per-server custom prefixes, an intuitive feedback ticket system, global announcements from a customizable whitelist, and much more.
-  
-  Started in October 2022 as a hobby project of my own using the [discord.py](https://discordpy.readthedocs.io/) framework, mostly as a joke, anyone can now run it by simply forking the repository and following the instructions in the README.
-  
-  You can click the image on the right to get started with cloning and installing the bot anywhere.
-</p>
 
 <br>
 <h2 align="center">Commissions</h2>
@@ -59,7 +41,7 @@ The best way to contact me is via Discord at `@evorp`, but you can also find me 
        src="https://cdn.discordapp.com/attachments/931741283179954187/1108194846499414076/zarrinHead.png"
        alt="commission example"
        height="192"
-       align="left"
+       align="right"
   />
 </a>
 
