@@ -15,13 +15,34 @@ The best way to contact me is via Discord at `@evorp`, but you can also find me 
 
 <h1>What I do:</h1>
 
+<h2 align="center">Commissions</h2>
+<a href="https://discord.com/users/360249987927638016">
+  <img
+       src="https://cdn.discordapp.com/attachments/931741283179954187/1108194846499414076/zarrinHead.png"
+       alt="commission example"
+       height="192"
+       align="left"
+  />
+</a>
+
+<p>
+  I do commissions for pixel art work, such as Minecraft skins, textures, and profile pictures.
+  
+  I have well over two years of pixel art and graphic design experience under my belt, and have been doing commission work for nearly one and a half years. I prioritize client feedback above all and ensure maximum transparency throughout the designing process.
+  
+  If you are interested in commissioning me, please let me know via Discord by clicking the link on the left and sending a friend request. We can then proceed in direct messages.
+</p>
+
+<br>
+
 <h2 align="center">The Faithful Project</h2>
+
 <a href="https://faithfulpack.net">
   <img 
        src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/plain_logo.png?raw=true" 
        alt="faithful logo"
        height="192"
-       align="left"
+       align="right"
   />
 </a>
 
@@ -31,26 +52,6 @@ The best way to contact me is via Discord at `@evorp`, but you can also find me 
   I'm a co-owner and manager of the project, and have been involved for over two years in its development. I help with [website](https://github.com/Faithful-Resource-Pack/Website) development, [Discord bot](https://github.com/Faithful-Resource-Pack/Discord-Bot) development, [texture making](https://docs.faithfulpack.net/pages/textures/contributor-handbook), and much more.
 
   You can join our [Discord server](https://discord.gg/sN9YRQbBv7) to help us contribute to the project, give feedback, or just generally chat with us, or click the image on the left to view our website.
-</p>
-
-<br>
-<h2 align="center">Commissions</h2>
-
-<a href="https://discord.com/users/360249987927638016">
-  <img
-       src="https://cdn.discordapp.com/attachments/931741283179954187/1108194846499414076/zarrinHead.png"
-       alt="commission example"
-       height="192"
-       align="right"
-  />
-</a>
-
-<p>
-  I do commissions for small-scale pixel art work, such as Minecraft skins, textures, and profile pictures. They'll generally cost between 5-10 USD, depending on complexity and time required.
-  
-  I have well over two years of pixel art and graphic design experience under my belt, and have been doing commission work for nearly one and a half years. I prioritize client feedback above all and ensure maximum transparency throughout the designing process.
-  
-  If you are interested in commissioning me, please let me know via Discord by clicking the link on the left and sending a friend request. We can then proceed in direct messages.
 </p>
 
 <hr>
