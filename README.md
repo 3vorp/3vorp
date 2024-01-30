@@ -21,6 +21,7 @@ The fastest way to contact me is [through my Discord](https://discord.com/users/
        src="https://3vorp.github.io/logo/cooking.gif"
        alt="commission example"
        height="192"
+       width="192"
        align="left"
   />
 </a>
