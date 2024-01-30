@@ -1,8 +1,8 @@
 <h1>Welcome to my GitHub profile!</h1>
 
-I'm a pixel artist and programmer with experience in Python, Node.js, TypeScript, Svelte, Jekyll, and more recently Java, Vue.js, and Express.
+I'm an artist and programmer with experience in Python, Node.js, TypeScript, Svelte, Vue.js, and more recently Java, Rust, and C/C++.
 
-The best way to contact me is via Discord at `@evorp`, but you can also find me at the following links:
+The fastest way to contact me is [through my Discord](https://discord.com/users/360249987927638016), but you can also find me at the following links:
 
 <a href="https://3vorp.github.io"><img alt="Site" src="https://img.shields.io/badge/Website-4a4a4e?style=for-the-badge&logoColor=white"></a>&nbsp;
 <a href="https://twitter.com/3vorp"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
@@ -18,7 +18,7 @@ The best way to contact me is via Discord at `@evorp`, but you can also find me 
 <h2 align="center">Commissions</h2>
 <a href="https://discord.com/users/360249987927638016">
   <img
-       src="https://cdn.discordapp.com/attachments/931741283179954187/1108194846499414076/zarrinHead.png"
+       src="https://3vorp.github.io/logo/cooking.gif"
        alt="commission example"
        height="192"
        align="left"
@@ -26,9 +26,9 @@ The best way to contact me is via Discord at `@evorp`, but you can also find me 
 </a>
 
 <p>
-  I do commissions for pixel art work, such as Minecraft skins, textures, and profile pictures.
+  I specialize in pixel art media, such as profile pictures, video game textures, or short animations.
   
-  I have well over two years of pixel art and graphic design experience under my belt, and have been doing commission work for nearly one and a half years. I prioritize client feedback above all and ensure maximum transparency throughout the designing process.
+  I have over three years of pixel art and graphic design experience, and have been doing commission work for over two of those. Client feedback and transparency is central to my services, and I only charge what you can pay.
   
   If you are interested in commissioning me, please let me know via Discord by clicking the link on the left and sending a friend request. We can then proceed in direct messages.
 </p>
