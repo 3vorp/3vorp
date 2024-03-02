@@ -50,9 +50,9 @@ The fastest way to contact me is [through my Discord](https://discord.com/users/
 <p>
   Faithful is a collection of open source and community-driven Minecraft resource packs, aiming to provide a higher-resolution version of the default Minecraft textures while staying true to the originals.
 
-  I'm a co-owner and manager of the project, and have been involved for over two years in its development. I help with [website](https://github.com/Faithful-Resource-Pack/Website) development, [Discord bot](https://github.com/Faithful-Resource-Pack/Discord-Bot) development, [texture making](https://docs.faithfulpack.net/pages/textures/contributor-handbook), and much more.
+  I'm a co-owner and manager of the project, and have been involved for over two years in its development. I help with [website](https://github.com/Faithful-Resource-Pack/Website) development, [Discord bot](https://github.com/Faithful-Resource-Pack/CompliBot) development, [texture making](https://docs.faithfulpack.net/pages/manuals/contributor-handbook), and much more.
 
-  You can join our [Discord server](https://discord.gg/sN9YRQbBv7) to help us contribute to the project, give feedback, or just generally chat with us, or click the image on the left to view our website.
+  You can join our [Discord server](https://discord.gg/sN9YRQbBv7) to help us contribute to the project, give feedback, or just generally chat with us, or click the image on the right to view our website.
 </p>
 
 <hr>
