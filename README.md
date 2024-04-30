@@ -1,6 +1,6 @@
 <h1>Welcome to my GitHub profile!</h1>
 
-I'm an artist and programmer with experience in Python, Node.js, TypeScript, Svelte, Vue.js, and more recently Java, Rust, and C/C++.
+I'm an artist and programmer with experience in Python, Node.js, TypeScript, PHP, Vue.js, and some Java and C.
 
 The fastest way to contact me is [through my Discord](https://discord.com/users/360249987927638016), but you can also find me at the following links:
 
