@@ -40,7 +40,7 @@ The fastest way to contact me is [through my Discord](https://discord.com/users/
 
 <a href="https://faithfulpack.net">
   <img 
-       src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/plain_logo.png?raw=true" 
+       src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.png" 
        alt="faithful logo"
        height="192"
        align="right"
