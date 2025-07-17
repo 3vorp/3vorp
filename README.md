@@ -1,59 +1,115 @@
-<h1>Welcome to my GitHub profile!</h1>
+<div align="center">
+  <a href="https://3vorp.github.io">
+    <img width="800" alt="Wordmark" src="https://github.com/user-attachments/assets/255dba79-5827-42e7-9572-656b3a36a20c" />
+  </a>
+  <hr />
+  <a href="https://discord.com/users/360249987927638016">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>&nbsp;
+  <a href="https://twitter.com/3vorp">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white">
+  </a>&nbsp;
+  <a href="https://reddit.com/u/3vorp">
+    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white">
+  </a>&nbsp;
+  <a href="https://tumblr.com/evorp">
+    <img alt="Tumblr" src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white">
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@evorp">
+    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
+  <a href="https://steamcommunity.com/id/3vorp/">
+    <img alt="Steam" src="https://img.shields.io/badge/Steam-2A475E?style=for-the-badge&logo=steam&logoColor=white">
+  </a>&nbsp;
+  <br /><br />
+  <a href="https://wakatime.com/@Evorp">
+    <img src="https://wakatime.com/badge/user/a6180042-a9f4-4c2b-9f41-3a02f3d617a3.svg?style=for-the-badge" />
+  </a>
+</div>
 
-I'm an artist and programmer with experience in Python, Node.js, TypeScript, PHP, Vue.js, and some Java and C.
+# My projects
 
-The fastest way to contact me is [through my Discord](https://discord.com/users/360249987927638016), but you can also find me at the following links:
+<img width="128" align="right" src="https://github.com/user-attachments/assets/fb7511ed-8824-42cb-9166-9c17a5e08b49" />
 
-<a href="https://3vorp.github.io"><img alt="Site" src="https://img.shields.io/badge/Website-4a4a4e?style=for-the-badge&logoColor=white"></a>&nbsp;
-<a href="https://twitter.com/3vorp"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;
-<a href="https://reddit.com/u/3vorp"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;
-<a href="https://www.youtube.com/@evorp"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;
-<a href="https://steamcommunity.com/id/3vorp/"><img alt="Steam" src="https://img.shields.io/badge/Steam-2A475E?style=for-the-badge&logo=steam&logoColor=white"></a>&nbsp;
+<h3><a href="https://npmjs.com/package/convert-pack">convert-pack</a></h3>
 
-[![wakatime](https://wakatime.com/badge/user/a6180042-a9f4-4c2b-9f41-3a02f3d617a3.svg?style=for-the-badge)](https://wakatime.com/@Evorp)
+Convert a Minecraft resource pack between versions and editions with no compromises using a powerful command-line interface.
 
-<h1>What I do:</h1>
+- Languages: JavaScript
 
-<h2 align="center">Commissions</h2>
-<a href="https://discord.com/users/360249987927638016">
-  <img
-       src="https://3vorp.github.io/logo/cooking.gif"
-       alt="commission example"
-       height="192"
-       width="192"
-       align="left"
-  />
-</a>
+<img width="128" align="right" src="https://github.com/user-attachments/assets/996af12d-bbc6-44dc-a108-2712e4b38714" />
 
-<p>
-  I specialize in pixel art media, such as profile pictures, video game textures, or short animations.
-  
-  I have over three years of pixel art and graphic design experience, and have been doing commission work for over two of those. Client feedback and transparency is central to my services, and I only charge what you can pay.
-  
-  If you are interested in commissioning me, please let me know via Discord by clicking the link on the left and sending a friend request. We can then proceed in direct messages.
-</p>
+<h3><a href="https://npmjs.com/package/vdom-mini">vdom-mini</a></h3>
 
-<br>
+250-line virtual DOM implementation from scratch. Extremely lightweight and optimized for progressive enhancement.
 
-<h2 align="center">The Faithful Project</h2>
+- Languages: JavaScript
 
-<a href="https://faithfulpack.net">
-  <img 
-       src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.png" 
-       alt="faithful logo"
-       height="192"
-       align="right"
-  />
-</a>
+# Projects I've contributed to
 
-<p>
-  Faithful is a collection of open source and community-driven Minecraft resource packs, aiming to provide a higher-resolution version of the default Minecraft textures while staying true to the originals.
+<img width="128" align="right" src="https://raw.githubusercontent.com/TheRolfFR/firestorm-db/refs/heads/main/img/firestorm-128.png" />
 
-  I'm a co-owner and manager of the project, and have been involved for over two years in its development. I help with [website](https://github.com/Faithful-Resource-Pack/Website) development, [Discord bot](https://github.com/Faithful-Resource-Pack/CompliBot) development, [texture making](https://docs.faithfulpack.net/pages/manuals/contributor-handbook), and much more.
+<h3><a href="https://npmjs.com/package/firestorm-db">firestorm-db</a></h3>
 
-  You can join our [Discord server](https://discord.gg/sN9YRQbBv7) to help us contribute to the project, give feedback, or just generally chat with us, or click the image on the right to view our website.
-</p>
+Self hosted Firestore-like database with API endpoints based on micro bulk operations. 
 
-<hr>
+- Languages: PHP, JavaScript
 
-*Please contact me via Discord if you have any additional questions. You can use my other socials too, but my response times may vary.*
+# Faithful Resource Pack Projects
+
+Faithful is a collection of open source and community-driven Minecraft resource packs, with an extensive network of code projects.
+
+<img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/dev_logo.png?w=128" />
+
+<h3><a href="https://webapp.faithfulpack.net">Web Application</a></h3>
+
+Official web application for the Faithful Resource Pack project. Features a Minecraft texture gallery with detailed information about contributions, texture uses, and more, add-on submission with an in-built review system and file hosting, and an administrator panel to safely edit the texture, user, and contribution databases directly.
+
+- Languages: JavaScript, HTML, CSS
+- Frameworks: Vue 2, Vuetify Components, Vite
+
+<img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/mods_logo.png?w=128" />
+
+<h3><a href="https://api.faithfulpack.net/docs">API</a></h3>
+
+Public RESTful API for Faithful's texture database, add-on submission, and more. Uses the in-house developed firestorm-db project to power file uploading, bulk editing, and statistic aggregation, and the tsoa framework to generate REST endpoints with in-built Discord authentication.
+
+- Languages: TypeScript, JavaScript, (indirectly) PHP
+- Frameworks: firestorm-db, tsoa, Swagger UI
+
+<img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.png?w=128" />
+
+<h3><a href="https://faithfulpack.net">Website</a></h3>
+
+Content-centric main website for the resource packs themselves. Features add-on search and pages, news articles and posts, and download pages with rich metadata and server-side rendering.
+
+- Languages: TypeScript, JavaScript, HTML, CSS
+- Frameworks: Nuxt 4, Vue 3, Vuetify Components, Bootstrap CSS
+
+<img width="128" align="right" src="https://github.com/user-attachments/assets/71700b2f-62ec-4e33-83cb-89bf44f8ea22" />
+
+<h3><a href="https://docs.faithfulpack.net">Docs</a></h3>
+
+Guides for texture making, submitting add-ons, and more. Powered by the VitePress framework, which converts markdown files into rendered HTML along with custom styling.
+
+- Languages: TypeScript, Markdown
+- Frameworks: VitePress, Vue 3
+
+<img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/complibot_submissions_logo.png?w=128" />
+
+<h3><a href="https://github.com/faithful-resource-pack/complibot-submissions">CompliBot Submissions</a></h3>
+
+Discord bot with a fully automated texture pushing and submission system for the Faithful Discord servers. Automatically creates and retrieves texture submissions for each resource pack and schedules daily texture pushes with upvoted results.
+
+- Languages: TypeScript
+- Frameworks: Discord.js, Octokit
+
+<img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/complibot_logo.png?w=128" />
+
+<h3><a href="https://github.com/faithful-resource-pack/complibot">CompliBot</a></h3>
+
+Provides a Discord interface for the Faithful API using slash commands and buttons to make viewing textures and contributions easier for end users. 
+
+- Languages: TypeScript
+- Frameworks: Discord.js
+
+---
