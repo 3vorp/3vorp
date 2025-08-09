@@ -26,11 +26,21 @@
   <a href="https://steamcommunity.com/id/3vorp/">
     <img alt="Steam" src="https://img.shields.io/badge/Steam-2A475E?style=for-the-badge&logo=steam&logoColor=white">
   </a>
-  <br /><br />
+  <br><br>
   <a href="https://wakatime.com/@Evorp">
     <img src="https://wakatime.com/badge/user/a6180042-a9f4-4c2b-9f41-3a02f3d617a3.svg?style=for-the-badge" />
   </a>
 </div>
+
+# My skills
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,php,md,html,css,java,bash,c,cpp">
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=vue,vuetify,pinia,nuxtjs,vite,svelte,bootstrap,express,fastapi,discordjs,npm,pnpm">
 
 # My projects
 
