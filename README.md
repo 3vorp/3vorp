@@ -36,7 +36,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,php,md,html,css,java,bash,c,cpp">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,php,md,html,css,ocaml,java,c,cpp">
 
 ### Frameworks
 
