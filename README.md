@@ -121,7 +121,7 @@ Discord bot with a fully automated texture pushing and submission system for the
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/complibot_logo.png?w=128" />
 
-<h3><a href="https://github.com/faithful-resource-pack/complibot">CompliBot</a></h3>
+<h3><a href="https://github.com/faithful-resource-pack/complibot">CompliBot Commands</a></h3>
 
 Provides a Discord interface for the Faithful API using slash commands and buttons to make viewing textures and contributions easier for end users. 
 
