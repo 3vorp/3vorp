@@ -70,13 +70,9 @@ Self hosted Firestore-like database with API endpoints based on micro bulk opera
 
 - Languages: PHP, JavaScript
 
-# Faithful Resource Pack Projects
-
-Faithful is a collection of open source and community-driven Minecraft resource packs, with an extensive network of code projects.
-
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/dev_logo.png?w=128" />
 
-<h3><a href="https://webapp.faithfulpack.net">Web Application</a></h3>
+<h3><a href="https://webapp.faithfulpack.net">Faithful Web Application</a></h3>
 
 Official web application for the Faithful Resource Pack project. Features a Minecraft texture gallery with detailed information about contributions, texture uses, and more, add-on submission with an in-built review system and file hosting, and an administrator panel to safely edit the texture, user, and contribution databases directly.
 
@@ -85,7 +81,7 @@ Official web application for the Faithful Resource Pack project. Features a Mine
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/mods_logo.png?w=128" />
 
-<h3><a href="https://api.faithfulpack.net/docs">API</a></h3>
+<h3><a href="https://api.faithfulpack.net/docs">Faithful API</a></h3>
 
 Public RESTful API for Faithful's texture database, add-on submission, and more. Uses the in-house developed firestorm-db project to power file uploading, bulk editing, and statistic aggregation, and the tsoa framework to generate REST endpoints with in-built Discord authentication.
 
@@ -94,7 +90,7 @@ Public RESTful API for Faithful's texture database, add-on submission, and more.
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.png?w=128" />
 
-<h3><a href="https://faithfulpack.net">Website</a></h3>
+<h3><a href="https://faithfulpack.net">Faithful Website</a></h3>
 
 Content-centric main website for the resource packs themselves. Features add-on search and pages, news articles and posts, and download pages with rich metadata and server-side rendering.
 
@@ -103,7 +99,7 @@ Content-centric main website for the resource packs themselves. Features add-on 
 
 <img width="128" align="right" src="https://github.com/user-attachments/assets/71700b2f-62ec-4e33-83cb-89bf44f8ea22" />
 
-<h3><a href="https://docs.faithfulpack.net">Docs</a></h3>
+<h3><a href="https://docs.faithfulpack.net">Faithful Docs</a></h3>
 
 Guides for texture making, submitting add-ons, and more. Powered by the VitePress framework, which converts markdown files into rendered HTML along with custom styling.
 
