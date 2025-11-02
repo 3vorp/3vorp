@@ -70,6 +70,9 @@ Self hosted Firestore-like database with API endpoints based on micro bulk opera
 
 - Languages: PHP, JavaScript
 
+<!-- fix -->
+<br>
+
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/dev_logo.png?w=128" />
 
 <h3><a href="https://webapp.faithfulpack.net">Faithful Web Application</a></h3>
