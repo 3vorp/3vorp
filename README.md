@@ -52,7 +52,7 @@
 
 - Languages: JavaScript
 
-<img width="128" align="right" src="https://github.com/user-attachments/assets/bf464a20-a530-422d-8dfb-923fa9225166" />
+<img width="128" align="right" src="https://github.com/user-attachments/assets/6cfe0807-e425-4048-85c6-da6aee6eed36" />
 
 <h3><a href="https://github.com/3vorp/autopull">autopull</a></h3>
 
