@@ -44,19 +44,27 @@
 
 # My projects
 
-<img width="128" align="right" src="https://github.com/user-attachments/assets/fb7511ed-8824-42cb-9166-9c17a5e08b49" />
-
-<h3><a href="https://npmjs.com/package/convert-pack">convert-pack</a></h3>
-
-Convert a Minecraft resource pack between versions and editions with no compromises using a powerful command-line interface.
-
-- Languages: JavaScript
-
 <img width="128" align="right" src="https://github.com/user-attachments/assets/996af12d-bbc6-44dc-a108-2712e4b38714" />
 
 <h3><a href="https://npmjs.com/package/vdom-mini">vdom-mini</a></h3>
 
 250-line virtual DOM implementation from scratch. Extremely lightweight and optimized for progressive enhancement.
+
+- Languages: JavaScript
+
+<img width="128" align="right" src="https://github.com/user-attachments/assets/bf464a20-a530-422d-8dfb-923fa9225166" />
+
+<h3><a href="https://github.com/3vorp/autopull">autopull</a></h3>
+
+A small tool to automatically pull GitHub repositories on a given interval using cron or Windows Task Scheduler. Uncommitted changes are preserved and merged as possible.
+
+- Languages: JavaScript
+
+<img width="128" align="right" src="https://github.com/user-attachments/assets/fb7511ed-8824-42cb-9166-9c17a5e08b49" />
+
+<h3><a href="https://npmjs.com/package/convert-pack">convert-pack</a></h3>
+
+Convert a Minecraft resource pack between versions and editions with no compromises using a powerful command-line interface.
 
 - Languages: JavaScript
 
