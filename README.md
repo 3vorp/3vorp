@@ -70,7 +70,7 @@ Convert a Minecraft resource pack between versions and editions with no compromi
 
 # Projects I've contributed to
 
-<img width="128" align="right" src="https://raw.githubusercontent.com/TheRolfFR/firestorm-db/refs/heads/main/img/firestorm-128.png" />
+<img width="128" align="right" src="https://raw.githubusercontent.com/TheRolfFR/firestorm-db/refs/heads/main/img/firestorm-256.png" />
 
 <h3><a href="https://npmjs.com/package/firestorm-db">firestorm-db</a></h3>
 
