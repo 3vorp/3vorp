@@ -52,6 +52,15 @@
 
 - Languages: JavaScript
 
+<img width="128" align="right" src="https://github.com/user-attachments/assets/bd6e5fea-4f55-4945-9500-65317972f8a6" />
+
+<h3><a href="https://3vorp.github.io/utils/recolor">Batch Recolorer</a></h3>
+
+Batch recolor an image to match a series of provided templates. Implemented entirely client-side using a simple browser interface
+
+- Languages: TypeScript
+- Frameworks: SvelteKit, WebGL
+
 <img width="128" align="right" src="https://github.com/user-attachments/assets/6cfe0807-e425-4048-85c6-da6aee6eed36" />
 
 <h3><a href="https://github.com/3vorp/autopull">autopull</a></h3>
@@ -68,7 +77,7 @@ Convert a Minecraft resource pack between versions and editions with no compromi
 
 - Languages: JavaScript
 
-# Projects I've contributed to
+# My contributed work
 
 <img width="128" align="right" src="https://raw.githubusercontent.com/TheRolfFR/firestorm-db/refs/heads/main/img/firestorm-256.png" />
 
