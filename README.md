@@ -32,7 +32,7 @@
   </a>
 </div>
 
-# My skills
+# My Skills
 
 ### Languages
 
@@ -42,7 +42,7 @@
 
 <img src="https://skillicons.dev/icons?i=vue,vuetify,pinia,nuxtjs,vite,svelte,bootstrap,express,fastapi,discordjs,npm,pnpm">
 
-# My projects
+# My Projects
 
 <img width="128" align="right" src="https://github.com/user-attachments/assets/996af12d-bbc6-44dc-a108-2712e4b38714" />
 
@@ -56,7 +56,7 @@
 
 <h3><a href="https://3vorp.github.io/utils/recolor">Batch Recolorer</a></h3>
 
-Batch recolor an image to match a series of provided templates. Implemented entirely client-side using a simple browser interface
+Batch recolor an image to match a series of provided templates. Implemented entirely client-side using native browser APIs to analyze and manipulate pixel data.
 
 - Languages: TypeScript
 - Frameworks: SvelteKit, WebGL
@@ -77,7 +77,7 @@ Convert a Minecraft resource pack between versions and editions with no compromi
 
 - Languages: JavaScript
 
-# My contributed work
+# My Contributed Work
 
 <img width="128" align="right" src="https://raw.githubusercontent.com/TheRolfFR/firestorm-db/refs/heads/main/img/firestorm-256.png" />
 
@@ -96,7 +96,7 @@ Self hosted Firestore-like database with API endpoints based on micro bulk opera
 
 Official web application for the Faithful Resource Pack project. Features a Minecraft texture gallery with detailed information about contributions, texture uses, and more, add-on submission with an in-built review system and file hosting, and an administrator panel to safely edit the texture, user, and contribution databases directly.
 
-- Languages: JavaScript, HTML, CSS
+- Languages: JavaScript, HTML, SCSS
 - Frameworks: Vue 2, Vuetify Components, Vite
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/mods_logo.png?w=128" />
@@ -114,7 +114,7 @@ Public RESTful API for Faithful's texture database, add-on submission, and more.
 
 Content-centric main website for the resource packs themselves. Features add-on search and pages, news articles and posts, and download pages with rich metadata and server-side rendering.
 
-- Languages: TypeScript, JavaScript, HTML, CSS
+- Languages: TypeScript, JavaScript, HTML, SCSS
 - Frameworks: Nuxt 4, Vue 3, Vuetify Components, Bootstrap CSS
 
 <img width="128" align="right" src="https://github.com/user-attachments/assets/71700b2f-62ec-4e33-83cb-89bf44f8ea22" />
@@ -123,7 +123,7 @@ Content-centric main website for the resource packs themselves. Features add-on 
 
 Guides for texture making, submitting add-ons, and more. Powered by the VitePress framework, which converts markdown files into rendered HTML along with custom styling.
 
-- Languages: TypeScript, Markdown
+- Languages: TypeScript, Markdown, CSS
 - Frameworks: VitePress, Vue 3
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/complibot_submissions_logo.png?w=128" />
@@ -137,11 +137,29 @@ Discord bot with a fully automated texture pushing and submission system for the
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/complibot_logo.png?w=128" />
 
-<h3><a href="https://github.com/faithful-resource-pack/complibot">CompliBot Commands</a></h3>
+<h3><a href="https://github.com/faithful-resource-pack/complibot-commands">CompliBot Commands</a></h3>
 
 Provides a Discord interface for the Faithful API using slash commands and buttons to make viewing textures and contributions easier for end users. 
 
 - Languages: TypeScript
 - Frameworks: Discord.js
 
----
+# Past Projects
+
+<img width="128" align="right" src="https://raw.githubusercontent.com/3vorp/Spunch-Bot/main/assets/bot_pfp.png" />
+
+<h3><a href="https://github.com/3vorp/spunch-bot">spunch bot</a></h3>
+
+General-purpose Discord bot, featuring per-server custom prefixes, a fully featured feedback ticket system, a customizable announcement system, and Wordle.
+
+- Languages: Python
+- Frameworks: Discord.py
+
+<img width="128" align="right" src="https://github.com/user-attachments/assets/445fcc85-ae14-47ef-8e54-cfbc632d7972" />
+
+<h3><a href="https://3vorp.github.io/spatial">Spatial</a></h3>
+
+Fictitious video editor company I created over the span of two weeks. I built a design language around the idea, and designed a series of logos and wordmarks for the project that I later used on a showcase website.
+
+- Languages: JavaScript, HTML, CSS
+- Frameworks: Vue 3
