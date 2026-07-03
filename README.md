@@ -92,9 +92,9 @@ Self hosted Firestore-like database with API endpoints based on micro bulk opera
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/dev_logo.png?w=128" />
 
-<h3><a href="https://webapp.faithfulpack.net">Faithful Web Application</a></h3>
+<h3><a href="https://studio.faithfulpack.net">Faithful Studio</a></h3>
 
-Official web application for the Faithful Resource Pack project. Features a Minecraft texture gallery with detailed information about contributions, texture uses, and more, add-on submission with an in-built review system and file hosting, and an administrator panel to safely edit the texture, user, and contribution databases directly.
+Web application for managing Faithful user-created content and profiles with ease. Features a Minecraft texture gallery with detailed information about contributions, texture uses, and more, add-on submission with an in-built review system and file hosting, and an administrator panel to safely edit the texture, user, and contribution databases directly.
 
 - Languages: JavaScript, HTML, SCSS
 - Frameworks: Vue 2, Vuetify Components, Vite
