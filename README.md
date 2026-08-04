@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://3vorp.github.io">
-    <img width="800" alt="Wordmark" src="https://github.com/user-attachments/assets/255dba79-5827-42e7-9572-656b3a36a20c" />
+    <img width="800" alt="Wordmark" src="https://github.com/user-attachments/assets/50e856b5-8d2a-4c70-a4b1-bf47cbaa67fe" />
   </a>
   <hr />
   <a href="https://discord.com/users/360249987927638016">
