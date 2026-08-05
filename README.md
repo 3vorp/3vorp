@@ -2,7 +2,7 @@
   <a href="https://3vorp.github.io">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/255dba79-5827-42e7-9572-656b3a36a20c">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/50e856b5-8d2a-4c70-a4b1-bf47cbaa67fe">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b5b224b4-b2a0-4e51-88c3-0ee5d2925fcd">
       <img alt="Wordmark" src="https://github.com/user-attachments/assets/255dba79-5827-42e7-9572-656b3a36a20c">
     </picture>
   </a>
