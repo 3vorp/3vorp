@@ -40,7 +40,7 @@
 
 <img width="128" align="right" src="https://github.com/user-attachments/assets/996af12d-bbc6-44dc-a108-2712e4b38714" />
 
-<h3><a href="https://npmjs.com/package/vdom-mini">vdom-mini</a></h3>
+<h3><a href="https://npmjs.com/package/vdom-mini">vDOM Mini</a></h3>
 
 150-line virtual DOM implementation from scratch. Extremely lightweight and optimized for progressive enhancement.
 
@@ -57,7 +57,7 @@ Batch recolor an image to match a series of provided templates. Implemented enti
 
 <img width="128" align="right" src="https://github.com/user-attachments/assets/6cfe0807-e425-4048-85c6-da6aee6eed36" />
 
-<h3><a href="https://github.com/3vorp/autopull">autopull</a></h3>
+<h3><a href="https://github.com/3vorp/autopull">Autopull</a></h3>
 
 A small tool to automatically pull GitHub repositories on a given interval using cron or Windows Task Scheduler. Uncommitted changes are preserved and merged as possible.
 
