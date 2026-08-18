@@ -36,23 +36,13 @@
   </a>
 </div>
 
-# My Skills
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,php,md,html,css,ocaml,java,c,cpp">
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=vue,vuetify,pinia,nuxtjs,vite,svelte,bootstrap,express,fastapi,discordjs,npm,pnpm">
-
 # My Projects
 
 <img width="128" align="right" src="https://github.com/user-attachments/assets/996af12d-bbc6-44dc-a108-2712e4b38714" />
 
 <h3><a href="https://npmjs.com/package/vdom-mini">vdom-mini</a></h3>
 
-250-line virtual DOM implementation from scratch. Extremely lightweight and optimized for progressive enhancement.
+150-line virtual DOM implementation from scratch. Extremely lightweight and optimized for progressive enhancement.
 
 - Languages: JavaScript
 
@@ -101,7 +91,7 @@ Self hosted Firestore-like database with API endpoints based on micro bulk opera
 Web application for managing Faithful user-created content and profiles with ease. Features a Minecraft texture gallery with detailed information about contributions, texture uses, and more, add-on submission with an in-built review system and file hosting, and an administrator panel to safely edit the texture, user, and contribution databases directly.
 
 - Languages: JavaScript, HTML, SCSS
-- Frameworks: Vue 2, Vuetify Components, Vite
+- Frameworks: Vue, Vuetify
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/mods_logo.png?w=128" />
 
@@ -109,8 +99,8 @@ Web application for managing Faithful user-created content and profiles with eas
 
 Public RESTful API for Faithful's texture database, add-on submission, and more. Uses the in-house developed firestorm-db project to power file uploading, bulk editing, and statistic aggregation, and the tsoa framework to generate REST endpoints with in-built Discord authentication.
 
-- Languages: TypeScript, JavaScript, (indirectly) PHP
-- Frameworks: firestorm-db, tsoa, Swagger UI
+- Languages: TypeScript, JavaScript
+- Frameworks: tsoa, Swagger UI
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/main_logo.png?w=128" />
 
@@ -119,7 +109,7 @@ Public RESTful API for Faithful's texture database, add-on submission, and more.
 Content-centric main website for the resource packs themselves. Features add-on search and pages, news articles and posts, and download pages with rich metadata and server-side rendering.
 
 - Languages: TypeScript, JavaScript, HTML, SCSS
-- Frameworks: Nuxt 4, Vue 3, Vuetify Components, Bootstrap CSS
+- Frameworks: Nuxt, Vue, Vuetify, Bootstrap
 
 <img width="128" align="right" src="https://github.com/user-attachments/assets/71700b2f-62ec-4e33-83cb-89bf44f8ea22" />
 
@@ -128,7 +118,7 @@ Content-centric main website for the resource packs themselves. Features add-on 
 Guides for texture making, submitting add-ons, and more. Powered by the VitePress framework, which converts markdown files into rendered HTML along with custom styling.
 
 - Languages: TypeScript, Markdown, CSS
-- Frameworks: VitePress, Vue 3
+- Frameworks: VitePress, Vue
 
 <img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/complibot_submissions_logo.png?w=128" />
 
@@ -166,4 +156,4 @@ General-purpose Discord bot, featuring per-server custom prefixes, a fully featu
 Fictitious video editor company I created over the span of two weeks. I built a design language around the idea, and designed a series of logos and wordmarks for the project that I later used on a showcase website.
 
 - Languages: JavaScript, HTML, CSS
-- Frameworks: Vue 3
+- Frameworks: Vue
