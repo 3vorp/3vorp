@@ -77,7 +77,7 @@ Convert a Minecraft resource pack between versions and editions with no compromi
 
 <h3><a href="https://npmjs.com/package/firestorm-db">firestorm-db</a></h3>
 
-Self hosted Firestore-like database with API endpoints based on micro bulk operations. 
+Self hosted Firestore-like database with API endpoints based on micro bulk operations.
 
 - Languages: PHP, JavaScript
 
@@ -97,7 +97,7 @@ Web application for managing Faithful user-created content and profiles with eas
 
 <h3><a href="https://api.faithfulpack.net/docs">Faithful API</a></h3>
 
-Public RESTful API for Faithful's texture database, add-on submission, and more. Uses the in-house developed firestorm-db project to power file uploading, bulk editing, and statistic aggregation, and the tsoa framework to generate REST endpoints with in-built Discord authentication.
+Public RESTful API for Faithful's texture database, add-on submission, and more. Uses the in-house developed `firestorm-db` project to power file uploading, bulk editing, and statistic aggregation, and the tsoa framework to generate REST endpoints with in-built Discord authentication.
 
 - Languages: TypeScript, JavaScript
 - Frameworks: tsoa, Swagger UI
@@ -144,16 +144,16 @@ Provides a Discord interface for the Faithful API using slash commands and butto
 
 <h3><a href="https://github.com/3vorp/spunch-bot">spunch bot</a></h3>
 
-General-purpose Discord bot, featuring per-server custom prefixes, a fully featured feedback ticket system, a customizable announcement system, and Wordle.
+General-purpose Discord bot, featuring per-server custom prefixes, a fully featured feedback ticket system, a customizable announcement system, and an interactive Wordle command.
 
 - Languages: Python
 - Frameworks: Discord.py
 
-<img width="128" align="right" src="https://github.com/user-attachments/assets/445fcc85-ae14-47ef-8e54-cfbc632d7972" />
+<img width="128" align="right" src="https://github.com/user-attachments/assets/ce4c4e47-72ae-45f9-ae75-39588a53eb38" />
 
 <h3><a href="https://3vorp.github.io/spatial">Spatial</a></h3>
 
-Fictitious video editor company I created over the span of two weeks. I built a design language around the idea, and designed a series of logos and wordmarks for the project that I later used on a showcase website.
+Fictitious video editing company I created over the span of two weeks. I built a design language around the idea of a spatially-oriented editing product and designed a series of logos and wordmarks for the project that I later used on a showcase website.
 
 - Languages: JavaScript, HTML, CSS
 - Frameworks: Vue
