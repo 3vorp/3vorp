@@ -111,7 +111,7 @@ Content-centric main website for the resource packs themselves. Features add-on 
 - Languages: TypeScript, JavaScript, HTML, SCSS
 - Frameworks: Nuxt, Vue, Vuetify, Bootstrap
 
-<img width="128" align="right" src="https://github.com/user-attachments/assets/71700b2f-62ec-4e33-83cb-89bf44f8ea22" />
+<img width="128" align="right" src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/docs_logo.png?w=128" />
 
 <h3><a href="https://docs.faithfulpack.net">Faithful Docs</a></h3>
 
