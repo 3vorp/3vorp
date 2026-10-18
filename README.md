@@ -3,26 +3,20 @@
 		<picture>
 			<source
 				media="(prefers-color-scheme: dark)"
-				srcset="
-					https://github.com/user-attachments/assets/255dba79-5827-42e7-9572-656b3a36a20c
-				"
-			/>
+				srcset="https://github.com/user-attachments/assets/255dba79-5827-42e7-9572-656b3a36a20c"
+			>
 			<source
 				media="(prefers-color-scheme: light)"
-				srcset="
-					https://github.com/user-attachments/assets/b5b224b4-b2a0-4e51-88c3-0ee5d2925fcd
-				"
-			/>
+				srcset="https://github.com/user-attachments/assets/b5b224b4-b2a0-4e51-88c3-0ee5d2925fcd"
+			>
 			<img
-				alt="Wordmark"
 				src="https://github.com/user-attachments/assets/255dba79-5827-42e7-9572-656b3a36a20c"
-			/>
+				alt="Wordmark"
+			>
 		</picture>
 	</a>
 	<a href="https://wakatime.com/@Evorp">
-		<img
-			src="https://wakatime.com/badge/user/a6180042-a9f4-4c2b-9f41-3a02f3d617a3.svg?style=for-the-badge"
-		/>
+		<img src="https://wakatime.com/badge/user/a6180042-a9f4-4c2b-9f41-3a02f3d617a3.svg?style=for-the-badge">
 	</a>
 	<hr />
 </div>
