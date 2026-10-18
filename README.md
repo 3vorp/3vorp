@@ -59,12 +59,7 @@
 			<a href="https://3vorp.github.io/utils/recolor">Batch Recolorer</a>
 		</li>
 		<li>
-			<a href="https://github.com/3vorp/convert-pack">convert-pack</a>
-		</li>
-		<li>
-			<a href="https://gist.github.com/3vorp/6117a788678e69be999cfede0efd8b03">
-				cherry-version
-			</a>
+			<a href="https://npmjs.com/package/convert-pack">convert-pack</a>
 		</li>
 		<li>
 			<a href="https://3vorp.github.io/utils/timesheet">Timesheet Manager</a>
@@ -100,6 +95,11 @@
 		<li>
 			<a href="https://github.com/3vorp/aseprite-theme">
 				My Aseprite Theme
+			</a>
+		</li>
+		<li>
+			<a href="https://gist.github.com/3vorp/6117a788678e69be999cfede0efd8b03">
+				cherry-version
 			</a>
 		</li>
 		<li>
