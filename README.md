@@ -67,11 +67,6 @@
 			</a>
 		</li>
 		<li>
-			<a href="https://gist.github.com/3vorp/39ee18b798a1f43436b6e31626a28d8a">
-				Tilesheet Manipulator
-			</a>
-		</li>
-		<li>
 			<a href="https://3vorp.github.io/utils/timesheet">Timesheet Manager</a>
 		</li>
 	</ul>
@@ -103,6 +98,11 @@
 	<h2>Miscellaneous</h2>
 	<ul>
 		<li>
+			<a href="https://github.com/3vorp/aseprite-theme">
+				My Aseprite Theme
+			</a>
+		</li>
+		<li>
 			<a href="https://gist.github.com/3vorp/24c8fc1d560235f3c4dbbd69f9d4ca4d">
 				JavaScript template to Vue SFC Converter
 			</a>
@@ -113,6 +113,11 @@
 		<li>
 			<a href="https://github.com/3vorp/gdoc-backup-utility">
 				Google Document Back-up Utility
+			</a>
+		</li>
+		<li>
+			<a href="https://gist.github.com/3vorp/39ee18b798a1f43436b6e31626a28d8a">
+				Tilesheet Manipulator
 			</a>
 		</li>
 		<li>
