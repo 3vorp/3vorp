@@ -75,10 +75,13 @@
 	<h2>Fun</h2>
 	<ul>
 		<li>
-			<a href="https://3vorp.github.io/games/gamble">Gambling Simulator</a>
+			<a href="https://3vorp.github.io/games/wordle">Evorp's Wordle</a>
 		</li>
 		<li>
-			<a href="https://3vorp.github.io/games/wordle">Evorp's Wordle</a>
+			<a href="https://github.com/3vorp/minesweeper">Minesweeper</a>
+		</li>
+		<li>
+			<a href="https://3vorp.github.io/games/gamble">Gambling Simulator</a>
 		</li>
 		<li>
 			<a href="https://3vorp.github.io/utils/uwu">The UwUificator</a>
